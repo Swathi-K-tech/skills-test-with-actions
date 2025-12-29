@@ -2,6 +2,7 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
+[![Step 1](https://github.com/Swathi-K-tech/skills-test-with-actions/actions/workflows/1-step.yml/badge.svg?branch=main)](https://github.com/Swathi-K-tech/skills-test-with-actions/actions/workflows/1-step.yml)
 Hey Swathi-K-tech!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
